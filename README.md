@@ -1,5 +1,7 @@
 # ff_slice
-Simple but powerful shell script for slice mp4 file to mp3, useful for clovanote
+Simple but powerful shell script for slice mp4 file to mp3, useful for clovanote 
+
+check ffmpeg!
 
 # usage
 ./ff_slice.sh [filename] 
